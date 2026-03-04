@@ -55,7 +55,7 @@ INSERT INTO students (full_name, birth_date, group_name, enrollment_year) VALUES
 ('Екатерина Мизулина', '2004-11-20', 'ПМИ-22', 2022),
 ('Быдля Быдлое', '2005-03-10', 'ИВТ-21', 2021),
 ('Егор Летов', '2006-07-22', 'РТ-23', 2023),
-('zytyfdb;eytuhjd', '2005-12-01', 'ПМИ-22', 2022);
+('zytytyfdb;ex`ys[', '2005-12-01', 'ПМИ-22', 2022);
 
 INSERT INTO subjects (name, teacher_id, hours) VALUES 
 ('Ultrakall', 1, 72),
